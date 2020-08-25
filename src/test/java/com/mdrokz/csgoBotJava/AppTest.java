@@ -1,4 +1,4 @@
-package com.mdrokz.testBot;
+package com.mdrokz.csgoBotJava;
 
 import static org.junit.Assert.assertTrue;
 
