@@ -1,3 +1,6 @@
+# Original
+this is the original csgo-bot written in lua with luvit framework - https://github.com/mdrokz/csgo-bot
+
 # csgoBotJava
 csgo-bot that displays skins from csgostash.com re-written in Java
 
